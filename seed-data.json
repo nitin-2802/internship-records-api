@@ -1,0 +1,103 @@
+{
+  "internships": [
+    {
+      "id": "INT-001",
+      "title": "Frontend Practice Internship",
+      "domain": "Web Development",
+      "mode": "Remote",
+      "location": "India",
+      "duration_weeks": 4,
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "openings": 2,
+      "applications_open": true
+    },
+    {
+      "id": "INT-002",
+      "title": "Data Dashboard Internship",
+      "domain": "Data Analytics",
+      "mode": "Remote",
+      "location": "India",
+      "duration_weeks": 6,
+      "skills": ["SQL", "Excel", "Dashboards"],
+      "openings": 2,
+      "applications_open": true
+    },
+    {
+      "id": "INT-003",
+      "title": "Product Design Internship",
+      "domain": "UI/UX",
+      "mode": "Hybrid",
+      "location": "Bengaluru",
+      "duration_weeks": 4,
+      "skills": ["Figma", "Prototyping"],
+      "openings": 1,
+      "applications_open": true
+    },
+    {
+      "id": "INT-004",
+      "title": "C++ Utility Internship",
+      "domain": "C++ Programming",
+      "mode": "Remote",
+      "location": "India",
+      "duration_weeks": 5,
+      "skills": ["C++", "STL", "CLI"],
+      "openings": 0,
+      "applications_open": false
+    },
+    {
+      "id": "INT-101",
+      "title": "Frontend Intern",
+      "domain": "Full Stack Development",
+      "mode": "Remote",
+      "location": "India",
+      "duration_weeks": 4,
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "openings": 3,
+      "applications_open": true
+    },
+    {
+      "id": "INT-102",
+      "title": "API Engineering Intern",
+      "domain": "Full Stack Development",
+      "mode": "Hybrid",
+      "location": "Pune",
+      "duration_weeks": 6,
+      "skills": ["Node.js", "SQL", "Testing"],
+      "openings": 2,
+      "applications_open": true
+    },
+    {
+      "id": "INT-103",
+      "title": "UI/UX Intern",
+      "domain": "UI/UX",
+      "mode": "Remote",
+      "location": "India",
+      "duration_weeks": 4,
+      "skills": ["Figma", "Research", "Accessibility"],
+      "openings": 1,
+      "applications_open": true
+    },
+    {
+      "id": "INT-104",
+      "title": "Data Analyst Intern",
+      "domain": "Data Analytics",
+      "mode": "On-site",
+      "location": "Bengaluru",
+      "duration_weeks": 6,
+      "skills": ["Excel", "SQL", "Data visualisation"],
+      "openings": 2,
+      "applications_open": true
+    },
+    {
+      "id": "INT-105",
+      "title": "Security Operations Intern",
+      "domain": "Cyber Security",
+      "mode": "Remote",
+      "location": "India",
+      "duration_weeks": 6,
+      "skills": ["Linux", "Logs", "Networking"],
+      "openings": 1,
+      "applications_open": true
+    }
+  ]
+}
